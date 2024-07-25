@@ -1,0 +1,95 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,900);
+
+body{
+	font-family: roboto;
+}
+
+h4 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  color:#FAA501E8 !important;
+  text-transform: uppercase;
+  margin: 0;
+  font-size: 2rem;
+ 
+}
+
+.jumbotron{
+	border-radius: 0px !important;
+}
+
+.navbar{
+	background-color: #212529 !important;
+	padding-bottom: 10px;
+}
+
+.nav-link{
+	color: #fff !important;
+	margin-right: 5px;
+	margin-top:5px;
+}
+
+.nav-link:hover{
+	color: #FAA501E8 !important;
+	transition: 0.5s;
+}
+
+.btn{
+	border-radius:5px !important;
+}
+
+.btn-beli{
+	background-color: #FAA501E8;
+	color: #F0F0F0;
+}
+
+.btn-beli:hover{
+	background-color: transparent;
+	color: #FAA501E8;
+	border-color: #FAA501E8;
+	transition: 0.5s;
+}
+
+img{
+	border-radius: 10px;
+}
+
+.btn-detail{
+	background-color: #70A8C8;
+	color: #F0F0F0;
+}
+
+h3{
+	text-align: center;
+	color: #FAA501E8 !important;
+}
+
+.btn-detail:hover{
+	background-color: transparent;
+	color: #70A8C8;
+	border-color:#70A8C8;
+	transition: 0.5s;
+}
+
+footer{
+	background-color: #929AAB !important;
+	color: white;
+}
+
+footer .page-footer{
+	background-color: #fff !important;
+}
+
+
+.parallax {
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+

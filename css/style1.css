@@ -1,0 +1,31 @@
+#logo{
+	width: 150px;
+}
+
+.navbar.static-top {
+    background-color: #70A8C8 !important; /* Ensure it overrides Bootstrap's bg-light */
+}
+
+.btn-buy{
+	background-color : #FAA501E8 !important;
+	color: white !important;
+}
+
+.btn-buy:hover{
+	background-color : transparent !important;
+	color: #FAA501E8 !important;
+	border-color: #FAA501E8 !important;
+	transition: 0.5s;	
+}
+
+#product{
+	width: 100%;
+}
+
+.text-inti{
+	color: #984e43;
+}
+
+.card-img{
+	opacity: 0.2;
+}
